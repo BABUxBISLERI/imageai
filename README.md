@@ -28,6 +28,11 @@ Check out the live demo [here](https://imageai.gpt-api.workers.dev). ([API Endpo
 
 <br>
 
+## 📷 Screenshot
+<a href="#Screenshot"><img src="https://github.com/user-attachments/assets/f54cc1e1-88aa-44d6-b8bb-644f4895e5e4" width="1612px"></a>
+
+<br>
+
 ## 🔗 Contributing
 Contributions are welcome! Feel free to submit a pull request or report an issue.
 
