@@ -14,6 +14,7 @@
 - Create a [Cloudflare](https://www.cloudflare.com/) **account**.
 - Navigate to `Workers & Pages > Create > Create Worker`.
 - Deploy the worker by clicking **Deploy**.
+- Add AI binding in **Settings** name it `AI`.
 - Edit the code by clicking **Edit Code**.
 - Upload [worker.js](https://github.com/Vauth/imageai/blob/main/worker.js) into **Cloudflare**.
 - Finally, **Deploy**.
